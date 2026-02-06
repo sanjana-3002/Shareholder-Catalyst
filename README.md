@@ -83,7 +83,7 @@ AI Thesis Summary:
 ## Quick Start
 
 # Clone repository
-git clone https://www.github.com/anshuldani/finance_ai_hackathon
+git clone https://www.github.com/sanjana-3002/Shareholder-Catalyst
 cd shareholder-catalyst-landingai
 
 # Install dependencies
